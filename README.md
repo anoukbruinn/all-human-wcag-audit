@@ -8,7 +8,7 @@
 
 Ik heb de website Google.nl getest.
 
-''De website heb ik gedaan aan de hand van inspecteren en daarna lighthouse''
+'De website heb ik gedaan aan de hand van inspecteren en daarna lighthouse'
 
 
 
