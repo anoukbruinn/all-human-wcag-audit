@@ -6,7 +6,9 @@
 
 ## Titel Website
 
-Ik heb de website Google.nl getest 
+Ik heb de website Google.nl getest.
+
+''De website heb ik gedaan aan de hand van inspecteren en daarna lighthouse''
 
 
 
